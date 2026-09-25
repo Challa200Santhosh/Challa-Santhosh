@@ -74,7 +74,6 @@ I build and validate software for vehicles, from **Simulink models taken through
 ### 📊 GitHub activity
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Challa200Santhosh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub stats">
   <img height="160" src="https://streak-stats.demolab.com?user=Challa200Santhosh&hide_border=true&theme=transparent" alt="GitHub streak">
 </p>
 
