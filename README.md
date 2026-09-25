@@ -16,6 +16,13 @@ I build and validate software for vehicles, from **Simulink models taken through
 - 🎓 B.Tech, Electronics & Communication Engineering, GITAM University (2021–2025).
 - 💼 **Open to roles** in MBD, validation (MIL/SIL/HIL), embedded AI and forward-deployed engineering in Bengaluru, Hyderabad and Pune.
 
+### 🔭 Currently working on
+- An **Indian-roads visual question-answering dataset** (LingoQA-style) built with a four-agent annotation pipeline: YOLO + VLM metadata, scene description, QA generation and judge-based validation.
+- Fine-tuning and edge deployment of VLMs for road-hazard understanding on **NVIDIA DRIVE Thor**.
+
+### 🌱 Learning
+- Agentic AI workflows with **LangGraph** and the Model Context Protocol (MCP).
+
 ---
 
 ### 🛠️ Tech stack
@@ -61,6 +68,15 @@ I build and validate software for vehicles, from **Simulink models taken through
 | [**Research Agent**](https://github.com/Challa200Santhosh/Research_Agent) | LangGraph agent that searches Semantic Scholar, arXiv and OpenAlex in parallel, filters by title similarity and exports a ranked Excel report | Python, LangGraph, LangChain, asyncio |
 | [**Adaptive Traffic Light (MBD)**](https://github.com/Challa200Santhosh/MBD_Project) | Density-based traffic controller modelled in Simulink and deployed on Arduino and STM32 | Simulink, Stateflow, Arduino, STM32 |
 | [**Solar Harvest Dryer (Capstone)**](https://github.com/Challa200Santhosh/capston_project) | ESP32 temperature/humidity control of a solar dryer with a Wi-Fi dashboard | ESP32, DHT22, Simulink |
+
+---
+
+### 📊 GitHub activity
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Challa200Santhosh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub stats">
+  <img height="160" src="https://streak-stats.demolab.com?user=Challa200Santhosh&hide_border=true&theme=transparent" alt="GitHub streak">
+</p>
 
 ---
 
