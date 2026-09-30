@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-555" alt="Location">
 </p>
 
-I build and validate software for vehicles, from **Simulink models taken through MIL → SIL → HIL on dSPACE** to **vision-language models running on NVIDIA DRIVE Thor**.
+I build and validate software for vehicles, from ** Simulink models taken through MIL → SIL → HIL on dSPACE** to **vision-language models running on NVIDIA DRIVE Thor **.
 
 - 🔬 **Junior Research Fellow, GITAM University** (IIT Hyderabad TiHAN-funded, Mar 2026 – present): fine-tuning Vision-Language Models (Qwen-VL) for Indian road conditions, deploying them on NVIDIA DRIVE Thor with TensorRT, and integrating perception with ROS 2, LiDAR and camera.
 - 🚗 **Model-Based Design Intern, KPIT Technologies** (Aug 2025 – Jan 2026): automotive control algorithms in MATLAB/Simulink/Stateflow, virtual ECUs in dSPACE SystemDesk/VEOS/ControlDesk, SIL rest-bus and fault-injection testing over CAN, under ISO 26262, ASPICE and MISRA C.
