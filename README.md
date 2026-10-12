@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Challa Santhosh 👋</h1>
-<h3 align="center">Model-Based Design (MBD) & Embedded AI Engineer . Autonomous Driving . Robotics</h3>
+<h3 align="center">Model-Based Design (MBD) & Embedded AI Engineer - Autonomous Driving - Robotics</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/challa-santhosh-36693828a/"><img src="https://img.shields.io/badge/LinkedIn-Challa%20Santhosh-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
